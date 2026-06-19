@@ -1,0 +1,13 @@
+# Virtual environment — never committed
+venv/
+
+# Secret keys — critical! never commit the API key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+.vscode/
