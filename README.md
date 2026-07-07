@@ -1,5 +1,7 @@
 # 🧘 Psycho-Kinetic Recovery — Dual Physical + Mental Rehab (LangGraph)
 
+> 🌐 [النسخة العربية (README بالعربية)](README_AR.md) · 📄 [شرح المشروع بالعربية (PDF)](docs/شرح_المشروع_بالعربية.pdf)
+
 Most sports rehab programs treat the body and ignore the mind.
 **Psycho-Kinetic Recovery** adapts *both* every single day.
 
